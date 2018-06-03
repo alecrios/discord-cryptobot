@@ -16,8 +16,6 @@
 		"invalidSymbol": "Please enter a valid cryptocurrency symbol (example: btc).",
 		"noData": "Failed to fetch market data.",
 		"tooManyRequests": "Too many requests. Please try again in a moment.",
-		"changePrefixSuccess": "Changed prefix successfully.",
-		"changePrefixFailure": "Failed to change prefix.",
 		"helpTitle": "Help",
 		"helpFields": [
 			{
