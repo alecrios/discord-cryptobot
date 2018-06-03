@@ -1,0 +1,29 @@
+{
+	"botToken": "",
+	"commandPrefix": "$",
+	"uiColors": {
+		"negative": 10038562,
+		"neutral": 16426522,
+		"positive": 1146986
+	},
+	"rateLimiter": {
+		"limit": 30,
+		"timespan": 60000
+	},
+	"lang": {
+		"noListings": "Failed to fetch listings.",
+		"noSymbol": "Please specify a cryptocurrency symbol (example: btc).",
+		"invalidSymbol": "Please enter a valid cryptocurrency symbol (example: btc).",
+		"noData": "Failed to fetch market data.",
+		"tooManyRequests": "Too many requests. Please try again in a moment.",
+		"changePrefixSuccess": "Changed prefix successfully.",
+		"changePrefixFailure": "Failed to change prefix.",
+		"helpTitle": "Help",
+		"helpFields": [
+			{
+				"name": "$price <symbol>",
+				"value": "Displays the current price of the specified cryptocurrency.\nFor example, to get the price of Bitcoin, type: `$price btc`"
+			}
+		]
+	}
+}
