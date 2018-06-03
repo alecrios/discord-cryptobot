@@ -19,6 +19,10 @@
 		"helpTitle": "Help",
 		"helpFields": [
 			{
+				"name": "$help",
+				"value": "Displays the help message."
+			},
+			{
 				"name": "$price <symbol>",
 				"value": "Displays the current price of the specified cryptocurrency.\nFor example, to get the price of Bitcoin, type: `$price btc`"
 			}
